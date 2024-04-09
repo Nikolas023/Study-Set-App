@@ -7,7 +7,7 @@ Basic study set app. Hold onto a flashcard to delete it.
 - Use of AlertDialog to implement a delete feature to delete a flashcard.
 
 # Get It On Google Play!
-The app is being reviewed and will be on Google Play soon!
+Download here: https://play.google.com/store/apps/details?id=com.nikolas.studysetapp
 
 # More To Come
 I will implement new features in the future. Some include selecting multiple flashcards to delete at once, as well as adding several flashcards at once. I will eventually re-do the desing and how the app looks overall.
